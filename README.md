@@ -32,6 +32,7 @@
 
 * [W3Schools HTML Reference](https://www.w3schools.com/tags/)
 * [W3Schools CSS Reference](https://www.w3schools.com/cssref/)
+* [MDN JavaScript Reference](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)
 * [Google Fonts](https://fonts.google.com)
 * [FFonts](www.ffonts.net/)
 * [Font Awesome](https://fontawesome.com)
