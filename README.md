@@ -16,7 +16,7 @@
 - ✅ Header
 - ✅ Main
 - ✅ Footer
-- 🟩 Responsive layout
+- ✅ Responsive layout
 <br>
 
 ## 💻 Technologies
