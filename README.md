@@ -8,7 +8,8 @@
 - See the project by [clicking here](https://hamomgs.github.io/portflow/).
 - See the project template by [clicking here](https://xd.adobe.com/view/13ead2e1-3ac9-44a1-b4cb-14736da07bb0-46b9/).
 
-![Project Image](https://i.postimg.cc/sgK6Xdg8/image.png)
+![Project Image](https://user-images.githubusercontent.com/88857655/172477460-f8a1d37b-d1a0-4dea-b716-369263841888.png)
+)
 <br>
 
 ## 📍 Checkpoints
@@ -34,7 +35,6 @@
 * [W3Schools CSS Reference](https://www.w3schools.com/cssref/)
 * [MDN JavaScript Reference](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference)
 * [Google Fonts](https://fonts.google.com)
-* [FFonts](www.ffonts.net/)
 * [Font Awesome](https://fontawesome.com)
 * [Post Image](https://postimages.org)
 * [Canva](https://canva.com)
